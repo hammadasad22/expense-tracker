@@ -42,7 +42,7 @@ body {
     letter-spacing: 4px;
 }
 
-/* h1 {
+h1 {
   
   letter-spacing: 1px;
   margin: 0;
@@ -67,7 +67,7 @@ h4 {
   margin: 0;
   text-transform: uppercase;
   color: #999;
-} */
+}
 
 .inc-exp-container {
   background-color: black;
